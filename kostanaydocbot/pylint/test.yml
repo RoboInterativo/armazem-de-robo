@@ -1,0 +1,24 @@
+************* Module telebot
+C: 73, 4: Variable name "r" doesn't conform to snake_case naming style (invalid-name)
+C: 74, 4: Variable name "h" doesn't conform to snake_case naming style (invalid-name)
+C: 79, 8: Variable name "bl" doesn't conform to snake_case naming style (invalid-name)
+C: 80, 8: Variable name "d" doesn't conform to snake_case naming style (invalid-name)
+C:107, 4: Variable name "r" doesn't conform to snake_case naming style (invalid-name)
+C:108, 4: Variable name "h" doesn't conform to snake_case naming style (invalid-name)
+C:112, 8: Variable name "el" doesn't conform to snake_case naming style (invalid-name)
+C:114, 8: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+C:115, 8: Variable name "b" doesn't conform to snake_case naming style (invalid-name)
+I:115,12: Module 'lxml.etree' has not 'tostring' member, but source is unavailable. Consider adding this module to extension-pkg-whitelist if you want to perform analysis based on run-time introspection of living objects. (c-extension-no-member)
+C:118, 8: Variable name "t" doesn't conform to snake_case naming style (invalid-name)
+C:119, 8: Variable name "t2" doesn't conform to snake_case naming style (invalid-name)
+E:130, 4: Undefined variable 'logger' (undefined-variable)
+W:148, 4: String statement has no effect (pointless-string-statement)
+W:165,-1: String statement has no effect (pointless-string-statement)
+W:185,-1: String statement has no effect (pointless-string-statement)
+C:242, 7: Do not use `len(SEQUENCE)` to determine if a sequence is empty (len-as-condition)
+C:262,11: Constant name "start_keyboard" doesn't conform to UPPER_CASE naming style (invalid-name)
+C: 36, 0: standard import "import logging" should be placed before "import requests" (wrong-import-order)
+
+------------------------------------------------------------------
+Your code has been rated at 8.04/10 (previous run: 7.84/10, +0.20)
+
