@@ -1,0 +1,3225 @@
+<db>
+  <akusher-ginekolog-kostanay button="Акушер-гинеколог">
+    <doctor>
+      <name>Комарова Ирина Николаевна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>19</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 10:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Биболова Мариям Едресовна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>39</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 10:00-15:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Перекопная Ирина Анатольевна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>26</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+    <doctor>
+      <name>Якушевич Светлана Ивановна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>22</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-19:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Шаяхметова 120</address>
+    </doctor>
+    <doctor>
+      <name>Ли Илья Вячеславович</name>
+      <spec>Акушер-гинеколог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>13</work_years>
+      <scheduler>
+        <schedule>ПН-СБ 14:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Медетова Вайда Садыковна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>46</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Сарсенова Шынар Мухадасовна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>28</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Сыромолотова Жанна Львовна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>26</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 10:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Кученкова Кристина Александровна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Черкасова Юлия Петровна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Урюпина Танзиля Гайнетулаевна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>26</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 13:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151, корпус 7, этаж 3</address>
+    </doctor>
+    <doctor>
+      <name>Кожагильдина Гульнар Сейдилдаевна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Круковская Наталья Сергеевна</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>9</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-19:00</schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 54</address>
+    </doctor>
+    <doctor>
+      <name>Кужахметов Серик Бейсенбиевич</name>
+      <spec>Акушер-гинеколог</spec>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+  </akusher-ginekolog-kostanay>
+  <alergolog-kostanay button="Аллерголог">
+    <doctor>
+      <name>Закирова Римма Ильясовна</name>
+      <spec>Аллерголог</spec>
+      <work_years>24</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Букаемская Юлия Васильевна</name>
+      <spec>Аллерголог</spec>
+      <work_years>8</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 09:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+  </alergolog-kostanay>
+  <androlog-kostanay button="Андролог">
+    <doctor>
+      <name>Юсупов Гафиз Жамалович</name>
+      <spec>Андролог</spec>
+      <work_years>9</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Поликарская Любовь Дмитриевна</name>
+      <spec>Андролог</spec>
+      <work_years>47</work_years>
+      <scheduler>
+        <schedule>08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+    <doctor>
+      <name>Елеукин Алтынбек Нуртаевич</name>
+      <spec>Андролог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>9 мкрн 6А</address>
+    </doctor>
+  </androlog-kostanay>
+  <analizy-kostanay button="Анализы">
+    <doctor>
+      <name>Анализы в Костанай</name>
+      <spec>Отделение Национального центра экспертиз</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:30</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Аль-Фараби 113</address>
+    </doctor>
+    <doctor>
+      <name>Анализы в Костанай</name>
+      <spec>Медицинская лаборатория "INVIVO</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-21:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Леонида Беды 26 3 этаж</address>
+    </doctor>
+    <doctor>
+      <name>Анализы в Костанай</name>
+      <spec>Медицинская лабаратория И,В, Смолина</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00 </schedule>
+        <schedule>ПЕРЕРЫВ 13:00-14:00 </schedule>
+        <schedule>СБ 09:00-12:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Шаяхметова 110</address>
+    </doctor>
+    <doctor>
+      <name>Анализы в Костанай</name>
+      <spec>Медицинская лобаратория "INVIVO" на Амангельды</spec>
+      <scheduler/>
+      <city>ЕЖЕДНЕВНО 10:00-21:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Анализы в Костанай</name>
+      <spec>Клинико-Диагностическая лаборатория "ОЛИМП"</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00 </schedule>
+        <schedule>СБ 09:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Проспект Кобланды Батыр 31</address>
+    </doctor>
+    <doctor>
+      <name>Анализы в Костанай</name>
+      <spec>Клинико-Диагностическая лаборатория "ОЛИМП" на Амангельды</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Амангельды 72</address>
+    </doctor>
+    <doctor>
+      <name>Анализы в Костанай</name>
+      <spec>Медицинская Лаборатория "Aqua lab</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30-15:30 </schedule>
+        <schedule>СБ 09:00-12:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 мая 151 2 корпус 1 этаж</address>
+    </doctor>
+    <doctor>
+      <name>Анализы в Костанай</name>
+      <spec>Медицинская лаборатория "КАЗЛАБСЕРВИС</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00 </schedule>
+        <schedule>ПЕРЕРЫВ 13:00-14:00 </schedule>
+        <schedule>СБ 09:00-12:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Каирбекова 358А</address>
+    </doctor>
+  </analizy-kostanay>
+  <venerolog-kostanay button="Венеролог">
+    <doctor>
+      <name>Овсянникова Татьяна Валентиновна</name>
+      <spec>Венеролог</spec>
+      <work_years>31</work_years>
+      <scheduler>
+        <schedule>ПН,СР,ПТ 14:00-15:00 ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Сулейменова Акзира Жайлаубаевна</name>
+      <spec>Венеролог</spec>
+      <work_years>41</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>Пасичник Наталья Васильевна</name>
+      <spec>Венеролог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 15:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+  </venerolog-kostanay>
+  <gastroenterolog-kostanay button="Гастроэнтеролог">
+    <doctor>
+      <name>Финк Евгений Викторович</name>
+      <spec>Гастроэнтеролог</spec>
+      <work_years>26</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Либкнехта, 1</address>
+    </doctor>
+    <doctor>
+      <name>Курмангалиева Анна Валерьевна</name>
+      <spec>Гастроэнтеролог</spec>
+      <work_years>9</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-12:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская, 14</address>
+    </doctor>
+    <doctor>
+      <name>Городецкая Анна Васильевна</name>
+      <spec>Гастроэнтеролог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>37</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 13:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя, 92</address>
+    </doctor>
+    <doctor>
+      <name>Черненькая Ирина Ивановна</name>
+      <spec>Гастроэнтеролог</spec>
+      <grade>Врач первой категории</grade>
+      <work_years>16</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 15:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Л. Беды, 26</address>
+    </doctor>
+    <doctor>
+      <name>Кульдеев Салават Каирханович</name>
+      <spec>Гастроэнтеролог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Маслозаводская, 23</address>
+    </doctor>
+    <doctor>
+      <name>Зейнетай Айжан Зейнетайқызы</name>
+      <spec>Гастроэнтеролог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Дзержинского, 9</address>
+    </doctor>
+    <doctor>
+      <name>Копейкина Ирина Федотовна</name>
+      <spec>Гастроэнтеролог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-11:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая, 151</address>
+    </doctor>
+    <doctor>
+      <name>Сейткалиев Абулкаир Тулейбергенович</name>
+      <spec>Гастроэнтеролог</spec>
+      <work_years>3</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Баймагамбетова, 5</address>
+    </doctor>
+    <doctor>
+      <name>Сарсенбаева Меруэт Галымовна</name>
+      <spec>Гастроэнтеролог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская, д. 54</address>
+    </doctor>
+  </gastroenterolog-kostanay>
+  <gematolog-kostanay button="Гематолог">
+    <doctor>
+      <name>Шарневская Светлана Фёдоровна</name>
+      <spec>Гематолог</spec>
+      <grade>Врач второй категории</grade>
+      <work_years>12</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00–15:00 </schedule>
+        <schedule>СБ 08:00–12:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская, д. 54</address>
+    </doctor>
+    <doctor>
+      <name>Жунусов Жасулан Экласович</name>
+      <spec>Гематолог</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Абая, 15</address>
+    </doctor>
+    <doctor>
+      <name>Жауынбекова Қарагөз Назымбекқызы</name>
+      <spec>Гематолог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Дзержинского, 9</address>
+    </doctor>
+    <doctor>
+      <name>Касымканова Майра Токтаровна</name>
+      <spec>Гематолог</spec>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Быковского, 4</address>
+    </doctor>
+    <doctor>
+      <name>Кияшко Наталья Валентиновна</name>
+      <spec>Гематолог</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00–15:00 </schedule>
+        <schedule>СБ 08:00–12:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.1 Мая, 151, корпус 7</address>
+    </doctor>
+  </gematolog-kostanay>
+  <genetik-kostanay button="Генетик">
+    <doctor>
+      <name>Шумилина Надежда Николаевна</name>
+      <spec>Генетик</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+  </genetik-kostanay>
+  <dietolog-kostanay button="Диетолог">
+    <doctor>
+      <name>Кужахметов Бейсенби Аубакирович</name>
+      <spec>Диетолог</spec>
+      <work_years>38</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая, 151</address>
+    </doctor>
+    <doctor>
+      <name>Кулаков Юрий Евгеньевич</name>
+      <spec>Диетолог</spec>
+      <work_years>23</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Кубеева, 2</address>
+    </doctor>
+    <doctor>
+      <name>Баймухаметова Зарина Тлегеновна</name>
+      <spec>Диетолог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Комсомольский, 49</address>
+    </doctor>
+  </dietolog-kostanay>
+  <immunolog-kostanay button="Иммунолог">
+    <doctor>
+      <name>Сулимова Виктория Викторовна</name>
+      <spec>Иммунолог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+  </immunolog-kostanay>
+  <infectionist-kostanay button="Инфекционист">
+    <doctor>
+      <name>Копейкина Ирина Федотовна</name>
+      <spec>Инфекционист</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+    <doctor>
+      <name>Закирова Роза Талгатбековна</name>
+      <spec>Инфекционист</spec>
+      <work_years>18</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>м-н Дорожник</address>
+    </doctor>
+    <doctor>
+      <name>Белобржицкая Галина Владимировна</name>
+      <spec>Инфекционист</spec>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Кобланды батыра 21</address>
+    </doctor>
+    <doctor>
+      <name>Мурзабаева Галина Абдыкаримова</name>
+      <spec>Инфекционист</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:30</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Комсомольский, 49</address>
+    </doctor>
+  </infectionist-kostanay>
+  <komputernaya-tomografiya-kostanay button="Компьютерная томография">
+    <doctor>
+      <name>Городская поликлиника 4</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>9мкрн 6А</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский Диагностический центр "Nova medical centre"</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 57</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Жемчужина Стомед" на Уральской</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Городская поликлиника 1</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул 1 Мая 151Б</address>
+    </doctor>
+    <doctor>
+      <name>Городская поликлиника 2</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30-18:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "УРОМЕД" на Амангельды</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Амангельды 143А</address>
+    </doctor>
+    <doctor>
+      <name>Городская Железнодорожная Больница</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-15:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Костанайский областной онкологический диспансер</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Кубеева 2</address>
+    </doctor>
+    <doctor>
+      <name>Костанайский городской противотуберкулезный диспансер</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 13:00-14:30 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Баймагамбетова 5</address>
+    </doctor>
+    <doctor>
+      <name>Городская поликлиника 3</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>проспект Кобланды батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Лечебно диагностический центр "ГИПОКРАТ"</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-15:00 </schedule>
+        <schedule>СБ 09:00-12:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151 корпус 7</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Жемчужина Стомед" на Наримановской</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Костанайская областная детская больница</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Быковского 4</address>
+    </doctor>
+    <doctor>
+      <name>Городской перинатальный центр</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-19:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Шаяхметова 120</address>
+    </doctor>
+    <doctor>
+      <name>Костанайская областная больница</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+    <doctor>
+      <name>Городская детская больница</name>
+      <spec>Компьютерная томография</spec>
+      <scheduler>
+        <schedule>ПН 08:00-20:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Леонида Беды 23А</address>
+    </doctor>
+  </komputernaya-tomografiya-kostanay>
+  <kardiolog-kostanay button="Кардиолог">
+    <doctor>
+      <name>Ан Элеонора Анатольевна</name>
+      <spec>Кардиолог</spec>
+      <grade>Врач первой категории</grade>
+      <work_years>23</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-15:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Лермонтова, д. 6</address>
+    </doctor>
+    <doctor>
+      <name>Мусагулова Галия Есетовна</name>
+      <spec>Кардиолог</spec>
+      <work_years>3</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина, 35</address>
+    </doctor>
+    <doctor>
+      <name>Мусагулова Галия Есетовна</name>
+      <spec>Кардиолог</spec>
+      <work_years>25</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская, 14</address>
+    </doctor>
+    <doctor>
+      <name>Путиева Ирина Ивановна</name>
+      <spec>Кардиолог</spec>
+      <work_years>32</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-13:00 ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая, 151, 7 корпус</address>
+    </doctor>
+    <doctor>
+      <name>Сейдагалиева Гульмира Муратовна</name>
+      <spec>Кардиолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>17</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская, 14</address>
+    </doctor>
+    <doctor>
+      <name>Майер Оксана Петровна</name>
+      <spec>Кардиолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>26</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-15:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Лермонтова, 79</address>
+    </doctor>
+    <doctor>
+      <name>Сапрыкина Лариса Николаевна</name>
+      <spec>Кардиолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>40</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Лермонтова, 79</address>
+    </doctor>
+    <doctor>
+      <name>Абикеева Айжамал Карымовна</name>
+      <spec>Кардиолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>30</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 10:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя, 92</address>
+    </doctor>
+    <doctor>
+      <name>Реймер Елена Викторовна</name>
+      <spec>Кардиолог</spec>
+      <work_years>6</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Маслозаводская, 23</address>
+    </doctor>
+    <doctor>
+      <name>Нурпаисова Лаура Валериевна</name>
+      <spec>Кардиолог</spec>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Фабричная, 2</address>
+    </doctor>
+    <doctor>
+      <name>Сеилова Асия Булатовна</name>
+      <spec>Кардиолог</spec>
+      <grade>Врач второй категории</grade>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая, 151</address>
+    </doctor>
+    <doctor>
+      <name>Финк Лариса Николаевна</name>
+      <spec>Кардиолог</spec>
+      <work_years>25</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00–18:00 </schedule>
+        <schedule>СБ 09:00–13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская, 14</address>
+    </doctor>
+    <doctor>
+      <name>Карабаева Галия Малкайдаровна</name>
+      <spec>Кардиолог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Больничный городок, 1</address>
+    </doctor>
+    <doctor>
+      <name>Исканов Мансур Гуломович</name>
+      <spec>Кардиолог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30–18:00 </schedule>
+        <schedule>СБ,ВС 09:00–14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. М. Хакимжановой, 56А</address>
+    </doctor>
+    <doctor>
+      <name>Макарова Елизавета Германовна</name>
+      <spec>Кардиолог</spec>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:30</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Комсомольский, 49</address>
+    </doctor>
+    <doctor>
+      <name>Садыкова Баян Базарбаевна</name>
+      <spec>Кардиолог</spec>
+      <work_years>4</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Амангельды, 143А</address>
+    </doctor>
+    <doctor>
+      <name>Дюсенов Нургали Зайнулович</name>
+      <spec>Кардиолог</spec>
+      <work_years>12</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 10:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина, 54</address>
+    </doctor>
+    <doctor>
+      <name>Заженов Габит Сарсенбаевич</name>
+      <spec>Кардиолог</spec>
+      <work_years>6</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Кобыланды батыра, 21</address>
+    </doctor>
+    <doctor>
+      <name>Саренов Сапарбек Жумагазинович</name>
+      <spec>Кардиолог</spec>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Баймагамбетова, 5</address>
+    </doctor>
+    <doctor>
+      <name>Касумов Рамиз Хорматович</name>
+      <spec>Кардиолог</spec>
+      <work_years>11</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская, д. 54</address>
+    </doctor>
+  </kardiolog-kostanay>
+  <logoped-kostanay button="Логопед">
+    <doctor>
+      <name>Райлян Ульяна Владимировна</name>
+      <spec>Логопед</spec>
+      <work_years>12</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская, 14</address>
+    </doctor>
+    <doctor>
+      <name>Кожанова Дина Кадырхановна</name>
+      <spec>Логопед</spec>
+      <work_years>15</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская, д. 54</address>
+    </doctor>
+    <doctor>
+      <name>Матсон Ольга Васильевна</name>
+      <spec>Логопед</spec>
+      <work_years>29</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина, 54а</address>
+    </doctor>
+    <doctor>
+      <name>Беляева Елена Борисовна</name>
+      <spec>Логопед</spec>
+      <work_years>33</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.Краснопартизанская,73 А</address>
+    </doctor>
+  </logoped-kostanay>
+  <lor-kostanay button="Лор">
+    <doctor>
+      <name>Галиева Роза Капаровна</name>
+      <spec>ЛОР</spec>
+      <work_years>40</work_years>
+      <scheduler>
+        <schedule>ПН-СБ 10:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Васильевна Татьяна Павловна</name>
+      <spec>ЛОР</spec>
+      <work_years>40</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 15:00-19:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Жулина Оксана Станиславовна</name>
+      <spec>ЛОР</spec>
+      <work_years>25</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>Кульчикова Бибигуль Абдешевна</name>
+      <spec>ЛОР</spec>
+      <work_years>22</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 15:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Леонида Беды 23А</address>
+    </doctor>
+    <doctor>
+      <name>Касымжанова Асыл Естаулетовна</name>
+      <spec>ЛОР</spec>
+      <work_years>37</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Хамитова Майра Мурзагалиевна</name>
+      <spec>ЛОР</spec>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 35</address>
+    </doctor>
+    <doctor>
+      <name>Акмурзина Ляззат Муканжановна</name>
+      <spec>ЛОР</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Ахметова Кульзейнеп Сейтбековна</name>
+      <spec>ЛОР</spec>
+      <work_years>19</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Туремуратов Темирбек Серикбаевич</name>
+      <spec>ЛОР</spec>
+      <work_years>6</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Смагулова Галия Амиржановна</name>
+      <spec>ЛОР</spec>
+      <work_years>17</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Татаева Гульнара Темировна</name>
+      <spec>ЛОР</spec>
+      <work_years>21</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Байдельдинов Мурат Гарипжанович</name>
+      <spec>ЛОР</spec>
+      <work_years>14</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-15:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Дуйсембина Асем Баймагамбетовна</name>
+      <spec>ЛОР</spec>
+      <work_years>3</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Дуйсембина Асем Баймагамбетовна</name>
+      <spec>ЛОР</spec>
+      <work_years>20</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 10:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Есенгожин Канат Косакбаевич</name>
+      <spec>ЛОР</spec>
+      <work_years>15</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 </schedule>
+        <schedule>СБ 10:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Строительная 6</address>
+    </doctor>
+  </lor-kostanay>
+  <mrt-kostanay button="МРТ">
+    <doctor>
+      <name>Медицинский центр "Жемчужина Стомед", филиал на Наримановской</name>
+      <spec>МРТ</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Уромед", филиал на Амангельды</name>
+      <spec>МРТ</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.Амангельды,143А(напротив Областной больницы)</address>
+    </doctor>
+    <doctor>
+      <name>Клиника "Марьям"</name>
+      <spec>МРТ</spec>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Уромед", филиал на Баймагамбетова</name>
+      <spec>МРТ</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-18:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Уромед", филиал на мкр. Северо-Западный</name>
+      <spec>МРТ</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>мкр Северо-Западный, 61-квартал, д. 17</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Коктем-3"</name>
+      <spec>МРТ</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-19:00 </schedule>
+        <schedule>СБ 9:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Жемчужина Стомед", филиал на Уральской</name>
+      <spec>МРТ</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-18:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Жемчужина Стомед", филиал на Пушкина</name>
+      <spec>МРТ</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+  </mrt-kostanay>
+  <mammolog-kostanay button="Маммолог">
+    <doctor>
+      <name>Соломонова Анастаcия Михайловна</name>
+      <spec>Маммолог</spec>
+      <work_years>12</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 13:00-16:00</schedule>
+      </scheduler>
+      <city>Кандидат медицинских наук</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Брылевский Александр Николаевич</name>
+      <spec>Маммолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>45</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя, 92</address>
+    </doctor>
+    <doctor>
+      <name>Белякова Наталья Николаевна</name>
+      <spec>Маммолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00–20:00 </schedule>
+        <schedule>СБ 09:00–14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая, 151 Б</address>
+    </doctor>
+    <doctor>
+      <name>Воропаев Александр Викторович</name>
+      <spec>Маммолог</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Больничный городок, 1</address>
+    </doctor>
+    <doctor>
+      <name>Муканова Айман Жагипаровна</name>
+      <spec>Маммолог</spec>
+      <work_years>15</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00–20:00 </schedule>
+        <schedule>СБ 09:00–14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая, 151 Б</address>
+    </doctor>
+    <doctor>
+      <name>Моларишвили Малхази Зурабович</name>
+      <spec>Маммолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>30</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя, 92</address>
+    </doctor>
+    <doctor>
+      <name>Шаптур Ирина Федоровна</name>
+      <spec>Маммолог</spec>
+      <work_years>3</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30–18:00 </schedule>
+        <schedule>СБ,ВС 09:00–14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. М. Хакимжановой, 56А</address>
+    </doctor>
+    <doctor>
+      <name>Зәкенбаева Меруерт Мұратқызы</name>
+      <spec>Маммолог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Кобыланды батыра, 21</address>
+    </doctor>
+    <doctor>
+      <name>Соломонова Анастасия Михайловна</name>
+      <spec>Маммолог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская, д. 54</address>
+    </doctor>
+  </mammolog-kostanay>
+  <med-sestra-kostanay button="Мед. сестра">
+    <doctor>
+      <name>Шаповалова Илона Валерьевна</name>
+      <spec>Медсестра</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Целуйко Елена Валерьевна</name>
+      <spec>Медсестра</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.Беды 23а</address>
+    </doctor>
+    <doctor>
+      <name>Тулеубаева Дамеш Тулендыевна</name>
+      <spec>Медсестра</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.Баймагамбетова, 5</address>
+    </doctor>
+    <doctor>
+      <name>Махметова Сания Оразбаевна</name>
+      <spec>Медсестра</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+  </med-sestra-kostanay>
+  <manualniy-terapevt-kostanay button="Мануальный терапевт">
+    <doctor>
+      <name>Касимов Полад Исабылаевич</name>
+      <spec>Мануальный Терапевт</spec>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:30-16:30 ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Хейфец Борис Михайлович</name>
+      <spec>Мануальный Терапевт</spec>
+      <work_years>45</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:30-13:30</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 79</address>
+    </doctor>
+  </manualniy-terapevt-kostanay>
+  <narkolog-kostanay button="Нарколог">
+    <doctor>
+      <name>Греева Екатерина Васильевна</name>
+      <spec>Нарколог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Мусина Алтынай Сабиржановна</name>
+      <spec>Нарколог</spec>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Хорунжая Оксана Михайловна</name>
+      <spec>Нарколог</spec>
+      <work_years>24</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+  </narkolog-kostanay>
+  <nevropotolog-kostanay button="Невропатолог">
+    <doctor>
+      <name>Семенова Ольга Николаевна</name>
+      <spec>Невропотолог</spec>
+      <work_years>18</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 14:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151Б</address>
+    </doctor>
+    <doctor>
+      <name>Мухамбетова Жамал Зекеновна</name>
+      <spec>Невропотолог</spec>
+      <work_years>33</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Убейволк Татьяна Константиновна</name>
+      <spec>Невропотолог</spec>
+      <work_years>22</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+    <doctor>
+      <name>Геращенко Елена Григорьевна</name>
+      <spec>Невропотолог</spec>
+      <work_years>36</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Калиясова Сауле Фазыловна</name>
+      <spec>Невропотолог</spec>
+      <work_years>34</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Аль-Фараби 144</address>
+    </doctor>
+    <doctor>
+      <name>Касимов Полад Исабылаевич</name>
+      <spec>Невропотолог</spec>
+      <work_years>11</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-19:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Каипова Карлыгаш Мирасбековна</name>
+      <spec>Невропотолог</spec>
+      <work_years>6</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>Хамзина Галия Муратбековна</name>
+      <spec>Невропотолог</spec>
+      <work_years>24</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Новоселова Елена Анатольевна</name>
+      <spec>Невропотолог</spec>
+      <work_years>22</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Краснопартизанская 39А</address>
+    </doctor>
+    <doctor>
+      <name>Сейдахметова Умут Бегайдаровна</name>
+      <spec>Невропотолог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00- 18:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 35</address>
+    </doctor>
+    <doctor>
+      <name>Сенчишина Екатерина Николаевна</name>
+      <spec>Невропотолог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-15:00 </schedule>
+        <schedule>СБ 08:00-10:30 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Амидова Майра Булатовна</name>
+      <spec>Невропотолог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Захаркина Ольга Александровна</name>
+      <spec>Невропотолог</spec>
+      <work_years>8</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Казантаев Жарасбек Камзинович</name>
+      <spec>Невропотолог</spec>
+      <work_years>3</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30-18:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>9мкрн дом 6</address>
+    </doctor>
+    <doctor>
+      <name>Сапанова Гульжаухар Султановна</name>
+      <spec>Невропотолог</spec>
+      <work_years>46</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 79</address>
+    </doctor>
+  </nevropotolog-kostanay>
+  <neyrohihurg-kostanay button="Нейрохирург">
+    <doctor>
+      <name>Москвичев Алексей Васильевич</name>
+      <spec>Нейрохирург</spec>
+      <work_years>31</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-13:00 ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Асилбеков Улыкбек Егенович</name>
+      <spec>Нейрохирург</spec>
+      <work_years>28</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Быковского 4</address>
+    </doctor>
+  </neyrohihurg-kostanay>
+  <nefrolog-kostanay button="Нефролог">
+    <doctor>
+      <name>Токпаева Гульнара Нурахметова</name>
+      <spec>Нефролог</spec>
+      <work_years>27</work_years>
+      <scheduler>
+        <schedule>ПН-ЧТ 13:40-14:40</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Карабаева Ляйла Сериковна</name>
+      <spec>Нефролог</spec>
+      <work_years>3</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-11:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+    <doctor>
+      <name>Токпаева Гульнара Нурахметовна</name>
+      <spec>Нефролог</spec>
+      <grade>Первая категория</grade>
+      <work_years>27</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Исмухамедова Айсулу Косылбаевна</name>
+      <spec>Нефролог</spec>
+      <work_years>23</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+  </nefrolog-kostanay>
+  <okulist-oftalmolog-kostanay button="Окулист Офтальмолог">
+    <doctor>
+      <name>Иванишева Елена Александровна</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>9</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Хоронеко Галина Яковлевна</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>36</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Ахметова София Мухамбетказиевна</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>50</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-14:00 </schedule>
+        <schedule>СБ 09:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Сатымова Бакыт Барсыкбаевна</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>27</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 35</address>
+    </doctor>
+    <doctor>
+      <name>Сазонова Валентина Григорьевна</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>38</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гашека 6</address>
+    </doctor>
+    <doctor>
+      <name>Галымова Дина Букаровна</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>18</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гашека 6</address>
+    </doctor>
+    <doctor>
+      <name>Лалетина Светлана Леонидовна</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>21</work_years>
+      <scheduler>
+        <schedule>ПН,ВТ,ЧТ 09:30-14:00 </schedule>
+        <schedule>СР,ПТ 12:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Дубинин Вечеслав Викторович</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>4</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Умурзакова Айнагуль Елемановна</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>4</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Отыншина Гульмира Каримовна</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-СБ 09:00-17:00 </schedule>
+        <schedule>ПЕРЕРЫВ 13:00-14:00</schedule>
+        <schedule> ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 94</address>
+    </doctor>
+    <doctor>
+      <name>Алпышев Олжас Ибрагимович</name>
+      <spec>Окулист Офтальмолог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-СБ 09:00-17:00 </schedule>
+        <schedule>ПЕРЕРЫВ 13:00-14:00</schedule>
+        <schedule> ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 94</address>
+    </doctor>
+  </okulist-oftalmolog-kostanay>
+  <onkolog-kostanay button="Онколог">
+    <doctor>
+      <name>Мнайдарова Алия Сейтжановна</name>
+      <spec>Онколог</spec>
+      <grade>Первая категория</grade>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Кубеева, 2</address>
+    </doctor>
+    <doctor>
+      <name>Кубенова Жанар Сайлаубековна</name>
+      <spec>Онколог</spec>
+      <work_years>25</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Кубеева, 2</address>
+    </doctor>
+    <doctor>
+      <name>Брылевский Александр Николаевич</name>
+      <spec>Онколог</spec>
+      <grade>Высшая категория</grade>
+      <work_years>45</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Касжанова Акбопе Бейсенбековна</name>
+      <spec>Онколог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Кубеева, 2</address>
+    </doctor>
+    <doctor>
+      <name>Ан Валентин Геннадьевич</name>
+      <spec>Онколог</spec>
+      <work_years>8</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Кубеева, 2</address>
+    </doctor>
+    <doctor>
+      <name>Закенбаева Меруерт Мураткызы</name>
+      <spec>Онколог</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Кобланды батыра 21</address>
+    </doctor>
+    <doctor>
+      <name>Дисаенко Ксения Сергеевна</name>
+      <spec>Онколог</spec>
+      <grade>Первая категория</grade>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Кубеева, 2</address>
+    </doctor>
+  </onkolog-kostanay>
+  <osteopat-kostanay button="Остеопат">
+    <doctor>
+      <name>Касимов Полад Исабылаевич</name>
+      <spec>Остеопат</spec>
+      <work_years>11</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:30-16:30 ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул Наримановская 54</address>
+    </doctor>
+  </osteopat-kostanay>
+  <parazitolog-kostanay button="Паразитолог">
+    <doctor>
+      <name>Токбураева Сауле Дастановна</name>
+      <spec>Паразитолог</spec>
+      <work_years>20</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00 </schedule>
+        <schedule>ПЕРЕРЫВ 12:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151 корпус 7, 3 этаж</address>
+    </doctor>
+  </parazitolog-kostanay>
+  <procedurniy-kabinet-kostanay button="Процедурный кабинет">
+    <doctor>
+      <name>Костанайская Железнодорожная больница</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-15:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский диагностический центр "Nova medical centre"</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 57</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Жемчужина Стомед", филиал на Наримановской</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Уромед", филиал на Амангельды</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.Амангельды,143А(напротив Областной больницы)</address>
+    </doctor>
+    <doctor>
+      <name>Клиника "Марьям"</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Уромед", филиал на Баймагамбетова</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-18:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Уромед", филиал на мкр. Северо-Западный</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>мкр Северо-Западный, 61-квартал, д. 17</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Коктем-3"</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-19:00 </schedule>
+        <schedule>СБ 9:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Жемчужина Стомед", филиал на Уральской</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-18:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Медицинский центр "Жемчужина Стомед", филиал на Пушкина</name>
+      <spec>Процедурный кабинет</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00</schedule>
+        <schedule>СБ 9:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.Пушкина 54</address>
+    </doctor>
+  </procedurniy-kabinet-kostanay>
+  <proktolog-kostanay button="Проктолог">
+    <doctor>
+      <name>Стогов Сергей Александрович</name>
+      <spec>Проктолог</spec>
+      <work_years>28</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-14:00 </schedule>
+        <schedule>СБ 09:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Полтавцев Павел Андреевич</name>
+      <spec>Проктолог</spec>
+      <work_years>9</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+  </proktolog-kostanay>
+  <psihiatr-kostanay button="Психиатр">
+    <doctor>
+      <name>Инкина Ирина Леонидовна</name>
+      <spec>Психиатр</spec>
+      <work_years>36</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 12:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Даненова Марал Айдархановна</name>
+      <spec>Психиатр</spec>
+      <work_years>8</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 35</address>
+    </doctor>
+    <doctor>
+      <name>Батраков Анатолий Семенович</name>
+      <spec>Психиатр</spec>
+      <work_years>3</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151Б</address>
+    </doctor>
+    <doctor>
+      <name>Чернышенко Лариса Петровна</name>
+      <spec>Психиатр</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30-18:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Акназаров Адилбай Сулейманович</name>
+      <spec>Психиатр</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Жарков Николай Егорович</name>
+      <spec>Психиатр</spec>
+      <work_years>46</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 54</address>
+    </doctor>
+  </psihiatr-kostanay>
+  <psiholog-kostanay button="Психолог">
+    <doctor>
+      <name>Мирманова Мария Болатовна</name>
+      <spec>Психолог</spec>
+      <work_years>20</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ по записи</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Толстого 52, 2 этаж, 9 кабинет</address>
+    </doctor>
+    <doctor>
+      <name>Ельчищева Олеся Васильевна</name>
+      <spec>Психолог</spec>
+      <work_years>15</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ по записи</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Выездной специалист</address>
+    </doctor>
+    <doctor>
+      <name>Загребина Елена Фаритовна</name>
+      <spec>Психолог</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-12:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Мухамедьянова Татьяна Анатольевна</name>
+      <spec>Психолог</spec>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-13:30</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Кравцова Юлия Юрьевна</name>
+      <spec>Психолог</spec>
+      <work_years>12</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-15:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Баранова Анастасия Андреевна</name>
+      <spec>Психолог</spec>
+      <work_years>12</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 10:00-18:00</schedule>
+        <schedule>СБ 10:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Алтынсарина 126</address>
+    </doctor>
+    <doctor>
+      <name>Прокофьева Елена Викторовна</name>
+      <spec>Психолог</spec>
+      <work_years>23</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30-18:00</schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Черникова Светлана Юрьевна</name>
+      <spec>Психолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>22</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>​​</city>
+      <address>г. Костанай</address>
+    </doctor>
+  </psiholog-kostanay>
+  <pediatr-kostanay button="Педиатр">
+    <doctor>
+      <name>Баранова Яна Викторовна</name>
+      <spec>Педиатр</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Близнецов Константин Алексеевич</name>
+      <spec>Педиатр</spec>
+      <grade>Первая категория</grade>
+      <work_years>27</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Касымканова Майра Токтаровна</name>
+      <spec>Педиатр</spec>
+      <grade>Первая категория</grade>
+      <work_years>36</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-17:00 </schedule>
+      </scheduler>
+      <city>СБ 9:00-14:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Давлетбаева Марьяш Жумадиловна</name>
+      <spec>Педиатр</spec>
+      <grade>Высшая категория</grade>
+      <work_years>40</work_years>
+      <scheduler>
+        <schedule>ПН, СР, ПТ ПО ЗАПИСИ </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Перекусихина Римма Жановна</name>
+      <spec>Педиатр</spec>
+      <work_years>32</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+    <doctor>
+      <name>Омелянчук Ирина Николаевна</name>
+      <spec>Педиатр</spec>
+      <work_years>11</work_years>
+      <scheduler>
+        <schedule>ПН, СР, ПТ ПО ЗАПИСИ </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Ибраимова Айгерим Сакеновна</name>
+      <spec>Педиатр</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 54</address>
+    </doctor>
+    <doctor>
+      <name>Джумагулова Елена Валерьевна</name>
+      <spec>Педиатр</spec>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Быковского 4</address>
+    </doctor>
+    <doctor>
+      <name>Бейсембина Орынгуль Еркиновна</name>
+      <spec>Педиатр</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30-18:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Мырзахметов Утжан Каримжанович</name>
+      <spec>Педиатр</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Кобланды батыра 21</address>
+    </doctor>
+    <doctor>
+      <name>Абеуова Гульнара Сыздыковна</name>
+      <spec>Педиатр</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Кобланды батыра 21</address>
+    </doctor>
+    <doctor>
+      <name>Айтыкова Гульбану Кайбжановна</name>
+      <spec>Педиатр</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-11:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>9 мкрн, 6А</address>
+    </doctor>
+    <doctor>
+      <name>Бахтибаева Аинур Калдыбаевна</name>
+      <spec>Педиатр</spec>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-11:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>9 мкрн, 6А</address>
+    </doctor>
+    <doctor>
+      <name>Ерофеева Нина Александровна</name>
+      <spec>Педиатр</spec>
+      <grade>Вторая категория</grade>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:30 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Комсомольский, 49</address>
+    </doctor>
+    <doctor>
+      <name>Байкенов Омирбек Токмеилович</name>
+      <spec>Педиатр</spec>
+      <grade>Вторая категория</grade>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:30 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул.Баймагамбетова, дом 4.</address>
+    </doctor>
+  </pediatr-kostanay>
+  <revmatolog-kostanay button="Ревматолог">
+    <doctor>
+      <name>Дюсенов Нургали Зайнулович</name>
+      <spec>Ревматолог</spec>
+      <work_years>12</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 10:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 54</address>
+    </doctor>
+    <doctor>
+      <name>Гусаченко Ирина Николаевна</name>
+      <spec>Ревматолог</spec>
+      <work_years>6</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+  </revmatolog-kostanay>
+  <stomatolog-kostanay button="Стоматолог">
+    <doctor>
+      <name>Борисова Алла Вечяславовна</name>
+      <spec>Стоматолог</spec>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 54</address>
+    </doctor>
+    <doctor>
+      <name>Ходанович Вадим Андреевич</name>
+      <spec>Стоматолог</spec>
+      <work_years>6</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 </schedule>
+        <schedule>СБ-ВС 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>8-й мкр. дом 19</address>
+    </doctor>
+    <doctor>
+      <name>Баймульдинова Ботагоз Есентаевна</name>
+      <spec>Стоматолог</spec>
+      <work_years>27</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00 </schedule>
+        <schedule>СБ 09:00-14-00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Рыженков Юрий Васильевич</name>
+      <spec>Стоматолог</spec>
+      <work_years>34</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 54</address>
+    </doctor>
+    <doctor>
+      <name>Сыздыкова Диана Шалхаровна</name>
+      <spec>Стоматолог</spec>
+      <work_years>27</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 54</address>
+    </doctor>
+    <doctor>
+      <name>Абдиева Индира Аюповна</name>
+      <spec>Стоматолог</spec>
+      <work_years>11</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул Баймагамбетова 168</address>
+    </doctor>
+    <doctor>
+      <name>Абдрашитов Тимур Рашитович</name>
+      <spec>Стоматолог</spec>
+      <work_years>19</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00 </schedule>
+        <schedule>СБ 09:00-15:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>Омарова Кульдирген Калихановна</name>
+      <spec>Стоматолог</spec>
+      <work_years>33</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-15:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Покровская Лидия Алексеевна</name>
+      <spec>Стоматолог</spec>
+      <work_years>45</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>Дульгер Елена Павловна</name>
+      <spec>Стоматолог</spec>
+      <work_years>26</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Дощанова 19</address>
+    </doctor>
+    <doctor>
+      <name>Давлетмурзаев Рафаэль Таврисович</name>
+      <spec>Стоматолог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Ивлева Любовь Олеговна</name>
+      <spec>Стоматолог</spec>
+      <work_years>13</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-19:00 </schedule>
+        <schedule>СБ 09:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>8 мкрн. 19</address>
+    </doctor>
+    <doctor>
+      <name>Мустафина Лениана Каратаевна</name>
+      <spec>Стоматолог</spec>
+      <work_years>23</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00 </schedule>
+        <schedule>СБ 09:00-15:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>Семенова Инна Александровна</name>
+      <spec>Стоматолог</spec>
+      <work_years>26</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 08:00-14:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 54</address>
+    </doctor>
+  </stomatolog-kostanay>
+  <travmatolog-kostanay button="Травматолог">
+    <doctor>
+      <name>Ерисковская Светлана Владимировна</name>
+      <spec>Травматолог</spec>
+      <work_years>4</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Кобланды батыра 21</address>
+    </doctor>
+    <doctor>
+      <name>Галенко Всеволод Федорович</name>
+      <spec>Травматолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>23</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00 </schedule>
+        <schedule>СБ 09:00-20:00 </schedule>
+        <schedule>ВС 09:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская, д. 54</address>
+    </doctor>
+    <doctor>
+      <name>Мацукатов Феодер Алексеевич</name>
+      <spec>Травматолог</spec>
+      <work_years>20</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>Доктор медицинских наук</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Пашков Денис Андреевич</name>
+      <spec>Травматолог</spec>
+      <work_years>15</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 15:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Толстого 50</address>
+    </doctor>
+    <doctor>
+      <name>Малюков Дмитрий Сергеевич</name>
+      <spec>Травматолог</spec>
+      <work_years>18</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-15:00 </schedule>
+        <schedule>СБ 08:00-12:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая, 151, корпус 7</address>
+    </doctor>
+    <doctor>
+      <name>Лавриненко Роман Анатольевич</name>
+      <spec>Травматолог</spec>
+      <work_years>11</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Касымканова 74А</address>
+    </doctor>
+    <doctor>
+      <name>Жагапаров Санжар Маратович</name>
+      <spec>Травматолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>17</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Быковского 4</address>
+    </doctor>
+    <doctor>
+      <name>Сулейменова Кадиша Мухамбеткалиевна</name>
+      <spec>Травматолог</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Шалмагамбетов Марат Салимжанович</name>
+      <spec>Травматолог</spec>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Абилькасымов Марал Утепбергенович</name>
+      <spec>Травматолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>43</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Аль-Фараби 144</address>
+    </doctor>
+    <doctor>
+      <name>Медыбаев Болат Кабидуллович</name>
+      <spec>Травматолог</spec>
+      <work_years>15</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+  </travmatolog-kostanay>
+  <terapevt-kostanay button="Терапевт">
+    <doctor>
+      <name>Нурмухамедова Раушан Онгаровна</name>
+      <spec>Терапевт</spec>
+      <work_years>8</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 35</address>
+    </doctor>
+    <doctor>
+      <name>Туржанова Орынкул Обдуовна</name>
+      <spec>Терапевт</spec>
+      <work_years>30</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-11:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>9 мкрн, 6А</address>
+    </doctor>
+    <doctor>
+      <name>Бекмагамбетова Гульнара Кенжетаевна</name>
+      <spec>Терапевт</spec>
+      <work_years>24</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:30</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Клепацкая Наталья Григорьевна</name>
+      <spec>Терапевт</spec>
+      <work_years>41</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Джумабаева Альфия Равгатовна</name>
+      <spec>Терапевт</spec>
+      <work_years>38</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Кузнецова Ирина Анатольевна</name>
+      <spec>Терапевт</spec>
+      <work_years>20</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>Дарменова Ардак Керимбековна</name>
+      <spec>Терапевт</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+    <doctor>
+      <name>Досмайлова Алтын Темирхановна</name>
+      <spec>Терапевт</spec>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Воробьев Сергей Владимирович</name>
+      <spec>Терапевт</spec>
+      <work_years>4</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 54</address>
+    </doctor>
+    <doctor>
+      <name>Кулаков Юрий Евгениевич</name>
+      <spec>Терапевт</spec>
+      <work_years>23</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Кубеева 2</address>
+    </doctor>
+    <doctor>
+      <name>Гончаревская Ольга Васильевна</name>
+      <spec>Терапевт</spec>
+      <work_years>23</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Хакимжанова 56А</address>
+    </doctor>
+    <doctor>
+      <name>Жиентаев Мурзабек Нуралович</name>
+      <spec>Терапевт</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Пстыга Ольга Иосифовна</name>
+      <spec>Терапевт</spec>
+      <work_years>6</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Проспект Кобланды Батыр 21</address>
+    </doctor>
+    <doctor>
+      <name>Карткужакова Амина Сакановна</name>
+      <spec>Терапевт</spec>
+      <work_years>9</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30-20:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>9 мкрн 6А</address>
+    </doctor>
+    <doctor>
+      <name>Письмак Людмила Дмитриевна</name>
+      <spec>Терапевт</spec>
+      <work_years>4</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 </schedule>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>9 мкрн 6А</address>
+    </doctor>
+    <doctor>
+      <name>Ахметова Айсулу Амиргалиевна</name>
+      <spec>Терапевт</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Утепова Алма Сабыровна</name>
+      <spec>Терапевт</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина 81</address>
+    </doctor>
+    <doctor>
+      <name>Жумашева Шолпан Уразбековна</name>
+      <spec>Терапевт</spec>
+      <work_years>8</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Проспект Кобланды Батыр 21</address>
+    </doctor>
+  </terapevt-kostanay>
+  <urolog-kostanay button="Уролог">
+    <doctor>
+      <name>Юсупов Гафиз Жамалович</name>
+      <spec>Уролог</spec>
+      <work_years>9</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Жандарбекова Альмира Кинжегозаевна</name>
+      <spec>Уролог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>20</work_years>
+      <scheduler>
+        <schedule>ВТ-ПТ 16:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Тургаев Сагынтай Серикбаевич</name>
+      <spec>Уролог</spec>
+      <work_years>30</work_years>
+      <scheduler>
+        <schedule>ВТ-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>8 мкрн 3а</address>
+    </doctor>
+    <doctor>
+      <name>Жаналинов Алмат Базарбаевич</name>
+      <spec>Уролог</spec>
+      <work_years>23</work_years>
+      <scheduler>
+        <schedule>ВТ-ПТ 16:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 74</address>
+    </doctor>
+    <doctor>
+      <name>Шустиков Александр Вечеславович</name>
+      <spec>Уролог</spec>
+      <work_years>25</work_years>
+      <scheduler>
+        <schedule>ПН, СР, ПТ ПО ЗАПИСИ </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Шинкаренко Сергей Васильевич</name>
+      <spec>Уролог</spec>
+      <work_years>21</work_years>
+      <scheduler>
+        <schedule>ВТ-ПТ 16:00-18:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Касимов Руслан Сабиржанович</name>
+      <spec>Уролог</spec>
+      <work_years>7</work_years>
+      <scheduler>
+        <schedule>ВТ-ЧТ 17:00-19:00 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Аман Евгений Викторович</name>
+      <spec>Уролог</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-15:00 </schedule>
+      </scheduler>
+      <city>СБ 8:00-12:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Аман Елена Анатольевна</name>
+      <spec>Уролог</spec>
+      <scheduler>
+        <schedule>ПН-ПТ 8:00-15:00 </schedule>
+      </scheduler>
+      <city>СБ 8:00-12:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>Мендыкулова Сауле Исмуратовна</name>
+      <spec>Уролог</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 13:00-14:30 </schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>8 мкрн 3а</address>
+    </doctor>
+  </urolog-kostanay>
+  <uzi-kostanay button="УЗИ">
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>​Альмагамбетова Айгуль Мынжасаровн</spec>
+      <work_years>25</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>​Сейдагалиева Гульмира Муратовн</spec>
+      <work_years>19</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Омарова Гульнара Сагимбаевн</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>24</work_years>
+      <scheduler>
+        <schedule>ПН-СБ 14:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова 79</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Сухова Елена Николаевн</spec>
+      <work_years>33</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 94</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Ыгиева Актоты Жумагалиевн</spec>
+      <work_years>14</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Бажал Татьяна Григорьевн</spec>
+      <work_years>26</work_years>
+      <scheduler>
+        <schedule>ПН-СБ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Дзержинского 9</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Токбаева Асель Аскаровн</spec>
+      <work_years>15</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 94</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Жумабаева Рамфия Рамазановн</spec>
+      <work_years>17</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 16:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Досмагамбето</spec>
+      <work_years>3</work_years>
+      <scheduler/>
+      <city>ПН-СБ 14:00 18:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Наурзбаева Умиткан Темирбековн</spec>
+      <work_years>8</work_years>
+      <scheduler/>
+      <city>ПН-ПТ ПО ЗАПИСИ</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Ковалева Татьяна Викторовн</spec>
+      <work_years>17</work_years>
+      <scheduler/>
+      <city>ПН-ПТ 09:00-17:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Терекуло</spec>
+      <work_years>6</work_years>
+      <scheduler>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>ПН-ПТ 07:30-18:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Шопанова Шынар Куанышбаевн</spec>
+      <work_years>1</work_years>
+      <scheduler/>
+      <city>ПН-ПТ 08:00-18:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Даулетова Светлана Камбарбековн</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>СБ 09:00-14:00</schedule>
+      </scheduler>
+      <city>ПН-ПТ 07:30-17:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+    <doctor>
+      <name>УЗИ в Костанай</name>
+      <spec>Соломонова Анастасия Михайловн</spec>
+      <work_years>2</work_years>
+      <scheduler/>
+      <city>ПН-ПТ 09:00-18:00</city>
+      <address>г. Костанай</address>
+    </doctor>
+  </uzi-kostanay>
+  <fizioterapevt-kostanay button="Физиотерапевт">
+    <doctor>
+      <name>Байдельдинова Бахыткуль Гарибжановна</name>
+      <spec>Физиотерапевт</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151Б</address>
+    </doctor>
+  </fizioterapevt-kostanay>
+  <hirurg-kostanay button="Хирург">
+    <doctor>
+      <name>Полтавцев Павел Андреевич</name>
+      <spec>Хирург</spec>
+      <work_years>8</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ по записи</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Уральская 14</address>
+    </doctor>
+    <doctor>
+      <name>Петри Александр Федорович</name>
+      <spec>Хирург</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00 по записи</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Дзержинского 9</address>
+    </doctor>
+    <doctor>
+      <name>Турко Александр Александрович</name>
+      <spec>Хирург</spec>
+      <work_years>8</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ по записи</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Ахмерова Айжан Акылбековна</name>
+      <spec>Хирург</spec>
+      <work_years>10</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ по записи</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя 92</address>
+    </doctor>
+    <doctor>
+      <name>Сарсенбаева Мируэрт Галымовна</name>
+      <spec>Хирург</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Ведлер Юлия Юрьевна</name>
+      <spec>Хирург</spec>
+      <work_years>4</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>9 мкрн дом 6А</address>
+    </doctor>
+    <doctor>
+      <name>Макубаев Тимур Багытович</name>
+      <spec>Хирург</spec>
+      <work_years>1</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Лермонтова 9Б</address>
+    </doctor>
+    <doctor>
+      <name>Абдиева Индира Аюповна</name>
+      <spec>Хирург</spec>
+      <work_years>11</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-13:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Баймагабетова 168</address>
+    </doctor>
+    <doctor>
+      <name>Кайдаулов Толеген Хамитович</name>
+      <spec>Хирург</spec>
+      <work_years>16</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина 35</address>
+    </doctor>
+    <doctor>
+      <name>Кайырмагамбетов Талгат Женисович</name>
+      <spec>Хирург</spec>
+      <work_years>25</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская 54</address>
+    </doctor>
+    <doctor>
+      <name>Томашев Кобланды Алпамысович</name>
+      <spec>Хирург</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая 151</address>
+    </doctor>
+  </hirurg-kostanay>
+  <endokrinolog-kostanay button="Эндокринолог">
+    <doctor>
+      <name>Городецкая Анна Васильевна</name>
+      <spec>Эндокринолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>37</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 13:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Гоголя, 92</address>
+    </doctor>
+    <doctor>
+      <name>Тажанова Сауле Каиркеновна</name>
+      <spec>Эндокринолог</spec>
+      <work_years>27</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-16:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина, 81</address>
+    </doctor>
+    <doctor>
+      <name>Кулеш Людмила Николаевна</name>
+      <spec>Эндокринолог</spec>
+      <work_years>43</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская, д. 54</address>
+    </doctor>
+    <doctor>
+      <name>Шнарбаева Нагима Ризвановна</name>
+      <spec>Эндокринолог</spec>
+      <grade>Врач высшей категории</grade>
+      <work_years>27</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Наримановская, д. 54</address>
+    </doctor>
+    <doctor>
+      <name>Кузнецова Ирина Анатольевна</name>
+      <spec>Эндокринолог</spec>
+      <work_years>20</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Летунова, 79</address>
+    </doctor>
+    <doctor>
+      <name>Клименко Ольга Владимировна</name>
+      <spec>Эндокринолог</spec>
+      <work_years>15</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00 ПО ЗАПИСИ</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Пушкина, 35</address>
+    </doctor>
+    <doctor>
+      <name>Гусейнова Гюльрава Аллахверди</name>
+      <spec>Эндокринолог</spec>
+      <work_years>3</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-17:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая, 151</address>
+    </doctor>
+    <doctor>
+      <name>Хажиева Акжибек Кайрбековна</name>
+      <spec>Эндокринолог</spec>
+      <work_years>8</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30–18:00 </schedule>
+        <schedule>СБ,ВС 09:00–14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. М. Хакимжановой, 56А</address>
+    </doctor>
+    <doctor>
+      <name>Курмангалиева Айман Бекзадаевна</name>
+      <spec>Эндокринолог</spec>
+      <work_years>5</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>Больничный городок, 1</address>
+    </doctor>
+    <doctor>
+      <name>Акдавлетова Надия Есенгельдыевна</name>
+      <spec>Эндокринолог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 07:30–18:00 </schedule>
+        <schedule>СБ,ВС 09:00–14:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. М. Хакимжановой, 56А</address>
+    </doctor>
+    <doctor>
+      <name>Захаров Валерий Александрович</name>
+      <spec>Эндокринолог</spec>
+      <work_years>2</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 09:00-18:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. 1 Мая, 151</address>
+    </doctor>
+    <doctor>
+      <name>Салихова Камиля Тальгатовна</name>
+      <spec>Эндокринолог</spec>
+      <work_years>3</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>пр. Кобыланды батыра, 21</address>
+    </doctor>
+    <doctor>
+      <name>Тажанова Сауле Каеркельдыевна</name>
+      <spec>Эндокринолог</spec>
+      <work_years>6</work_years>
+      <scheduler>
+        <schedule>ПН-ПТ 08:00-20:00</schedule>
+      </scheduler>
+      <city>г. Костанай</city>
+      <address>ул. Майлина, 81</address>
+    </doctor>
+  </endokrinolog-kostanay>
+</db>
